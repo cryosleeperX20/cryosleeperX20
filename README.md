@@ -60,8 +60,7 @@
 
 <!-- Let's Connect -->
 <h3 align="center">
-  <img src="https://media1.tenor.com/m/iiFG53YUxW8AAAAd/happy-dance-clancy.gif" width="30" style="vertical-align: middle; margin-right: 10px;" />
-  Let's Connect!
+  Let's Connect! <img src="https://media1.tenor.com/m/iiFG53YUxW8AAAAd/happy-dance-clancy.gif" width="40" style="vertical-align: middle; margin-right: 10px;" />
 </h3>
 
 <div align="center">
