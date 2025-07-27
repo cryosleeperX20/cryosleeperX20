@@ -1,16 +1,8 @@
-<h1 align="center">Hey there, I'm Prakhar! 👋</h1>
-
-<p align="center">
-  <img src="https://media1.tenor.com/m/iiFG53YUxW8AAAAd/happy-dance-clancy.gif" alt="Happy Dance Clancy" width="120"/>
-</p>
-
-<p align="center">
-  <div style="display: inline-block; border: 4px solid #6c63ff; border-radius: 15px; padding: 10px; box-shadow: 0 0 20px #6c63ff;">
+<h1 align="center">Hey there, I'm Prakhar!🐋🪼</h1>
     <img src="assets/clancy.gif" alt="Clancy GIF" width="500"/>
   </div>
 </p>
 
----
 <div align="center">
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
   <img width="20" />
@@ -46,7 +38,6 @@
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
 </div>
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=atharvamhaske&style=for-the-badge&color=brightgreen" alt="Profile Views" />
