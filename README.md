@@ -71,5 +71,6 @@
   </a>
 </div>
 
-<img src="https://raw.githubusercontent.com/cryosleeperX20/cryosleeperX20/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/cryosleeperX20/cryosleeperX20/output/snake.svg" alt="Snake animation" />
+</p>
