@@ -38,23 +38,23 @@
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats & Activity
 
-<!-- GitHub Stats Card -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cryosleeperX20&show_icons=true&theme=tokyonight&hide=stars&count_private=true" alt="GitHub Stats"/>
+  <img src="https://komarev.com/ghpvc/?username=cryosleeperX20&style=for-the-badge&color=brightgreen" alt="Profile Views" />
 </p>
 
-<!-- Most Used Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryosleeperX20&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <a href="https://github.com/cryosleeperX20">
+    <img src="https://github-readme-stats.vercel.app/api?username=cryosleeperX20&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=cryosleeperX20&theme=tokyonight&hide_border=true" width="48%" />
+  </a>
 </p>
 
-<!-- GitHub Streak -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cryosleeperX20&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cryosleeperX20&theme=github-compact&hide_border=true" width="90%"/>
 </p>
----
+
 
 <h3 align="left">Connect with me 🌐</h3>
 
