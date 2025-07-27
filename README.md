@@ -38,23 +38,17 @@
 
 ---
 
-### 📊 GitHub Stats & Activity
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cryosleeperX20&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=shadow_blue&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=cryosleeperX20&locale=en&mode=daily&theme=shadow_blue&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cryosleeperX20&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=shadow_blue&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+<br/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cryosleeperX20&style=for-the-badge&color=brightgreen" alt="Profile Views" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cryosleeperX20&theme=github-compact&hide_border=true" width="75%"/>
 </p>
-
-<p align="center">
-  <a href="https://github.com/cryosleeperX20">
-    <img src="https://github-readme-stats.vercel.app/api?username=cryosleeperX20&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=cryosleeperX20&theme=tokyonight&hide_border=true" width="48%" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cryosleeperX20&theme=github-compact&hide_border=true" width="90%"/>
-</p>
-
 
 <h3 align="left">Connect with me 🌐</h3>
 
