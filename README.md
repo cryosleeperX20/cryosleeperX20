@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Prakhar! 🐋🪼</h1>
+<h1 align="center">Hi , I'm Prakhar! 🐋🪼</h1>
 
 <p align="center">
   <img src="assets/clancy.gif" alt="Clancy GIF" width="500" />
@@ -84,3 +84,5 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/cryosleeperX20/cryosleeperX20/output/snake.svg" alt="Snake animation" />
 </p>
+<p align="right"><i>𝒶𝓁𝓁 𝒻𝓁𝑜𝓌𝑒𝓇𝓈 𝒾𝓃 𝓉𝒾𝓂𝑒 𝒷𝑒𝓃𝒹 𝓉🌻𝑜𝓌𝒶𝓇𝒹𝓈 𝓉𝒽𝑒 𝓈𝓊𝓃</i></p>
+
