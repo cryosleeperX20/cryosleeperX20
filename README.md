@@ -10,6 +10,8 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" />
   <img width="15"/>
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo" />
+  <img width="15"/>
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
   <img width="15"/>
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo" />
