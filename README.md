@@ -60,7 +60,7 @@
 
 <!-- Let's Connect -->
 <h3 align="center">
-  Let's Connect! <img src="https://media1.tenor.com/m/iiFG53YUxW8AAAAd/happy-dance-clancy.gif" width="40" style="vertical-align: middle; margin-right: 10px;" />
+  Let's Connect! <img src="https://25.media.tumblr.com/e6ffb193e37fb600e828c03e357237b2/tumblr_mhtt5ts8BK1rkfeyuo1_250.gif" width="40" style="vertical-align: middle; margin-right: 10px;" />
 </h3>
 
 <div align="center">
@@ -84,5 +84,5 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/cryosleeperX20/cryosleeperX20/output/snake.svg" alt="Snake animation" />
 </p>
-<p align="right"><i>𝒶𝓁𝓁 𝒻𝓁𝑜𝓌𝑒𝓇𝓈 𝒾𝓃 𝓉𝒾𝓂𝑒 𝒷𝑒𝓃𝒹 𝓉🌻𝑜𝓌𝒶𝓇𝒹𝓈 𝓉𝒽𝑒 𝓈𝓊𝓃</i></p>
+<p align="right"><i>𝒶𝓁𝓁 𝒻𝓁𝑜𝓌𝑒𝓇𝓈 𝒾𝓃 𝓉𝒾𝓂𝑒 𝒷𝑒𝓃𝒹 𝓉𝑜𝓌𝒶𝓇𝒹𝓈 𝓉𝒽𝑒 𝓈𝓊𝓃</i></p>
 
