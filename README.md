@@ -46,17 +46,19 @@
 <hr>
 
 <!-- GitHub Stats -->
+<!-- GitHub Stats -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=cryosleeperX20&style=for-the-badge&color=brightgreen" alt="Profile Views" />
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cryosleeperX20&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=shadow_blue&locale=en&hide_border=false" height="150" />
-  <img src="https://streak-stats.demolab.com?user=cryosleeperX20&locale=en&mode=daily&theme=shadow_blue&hide_border=false&border_radius=5" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cryosleeperX20&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=shadow_blue&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cryosleeperX20&show_icons=true&theme=shadow_blue&include_all_commits=true&count_private=true" height="170" />
+  <img src="https://streak-stats.demolab.com?user=cryosleeperX20&theme=shadow_blue&hide_border=false&border_radius=5" height="170" />
 </div>
 
-<hr>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryosleeperX20&layout=compact&langs_count=8&theme=shadow_blue" height="170" />
+</p>
 
 <!-- Let's Connect -->
 <h3 align="center">
