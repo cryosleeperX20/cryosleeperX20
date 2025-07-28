@@ -60,7 +60,7 @@
 
 <!-- Let's Connect -->
 <h3 align="center">
-  Let's Connect! <img src="https://25.media.tumblr.com/e6ffb193e37fb600e828c03e357237b2/tumblr_mhtt5ts8BK1rkfeyuo1_250.gif" width="40" style="vertical-align: middle; margin-right: 10px;" />
+  Let's Connect! <img src="https://25.media.tumblr.com/e6ffb193e37fb600e828c03e357237b2/tumblr_mhtt5ts8BK1rkfeyuo1_250.gif" width="60" style="vertical-align: middle; margin-right: 10px;" />
 </h3>
 
 <div align="center">
