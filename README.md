@@ -53,26 +53,12 @@
 
 <!-- GitHub Stats -->
 <div align="center">
-  <!-- GitHub Stats -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=cryosleeperX20&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&title_color=C46CEB&text_color=cccccc&icon_color=C46CEB&bg_color=0D1117" 
-    height="150" 
-    alt="stats graph" 
-  />
-
-  <!-- GitHub Streak -->
+    src="https://github-readme-stats.vercel.app/api?username=cryosleeperX20&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&title_color=C46CEB&text_color=cccccc&icon_color=C46CEB&bg_color=0D1117" height="150" alt="stats graph"/>
   <img 
-    src="https://streak-stats.demolab.com?user=cryosleeperX20&hide_border=false&border_radius=5&background=0D1117&stroke=C46CEB&ring=C46CEB&fire=C46CEB&currStreakLabel=C46CEB&sideNums=cccccc&currStreakNum=C46CEB&sideLabels=cccccc" 
-    height="150" 
-    alt="streak graph" 
-  />
-
-  <!-- Top Languages -->
+    src="https://streak-stats.demolab.com?user=cryosleeperX20&hide_border=false&border_radius=5&background=0D1117&stroke=C46CEB&ring=C46CEB&fire=C46CEB&currStreakLabel=C46CEB&sideNums=cccccc&currStreakNum=C46CEB&sideLabels=cccccc" height="150" alt="streak graph"  />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=cryosleeperX20&layout=compact&card_width=320&langs_count=5&hide_border=false&title_color=C46CEB&text_color=cccccc&icon_color=C46CEB&bg_color=0D1117" 
-    height="150" 
-    alt="languages graph" 
-  />
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=cryosleeperX20&layout=compact&card_width=320&langs_count=5&hide_border=false&title_color=C46CEB&text_color=cccccc&icon_color=C46CEB&bg_color=0D1117" height="150" alt="languages graph"  />
 </div>
 
 <!-- Let's Connect -->
