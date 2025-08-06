@@ -48,6 +48,7 @@ Hi, I'm Prakhar Pandey
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
 </div>
 
+<hr style="height:1px; border:none; background-color:#555; margin:24px 0;" />
 
 <!-- Profile Views -->
 <div align="center">
