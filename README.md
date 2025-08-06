@@ -1,9 +1,9 @@
 <h1 align="center">Hi , I'm Prakhar! 🐋🪼</h1>
 
-<div align="center" style="background-color:#000000; padding: 10px 0;">
-  <img src="assets/left.gif" width="250" />
-  <img src="assets/clancy.gif" width="300" />
-  <img src="assets/right.gif" width="250" />
+<div align="center" style="background-color:#000000; padding: 10px 0; display: flex; align-items: flex-end; gap: 10px;">
+  <img src="assets/left.gif" height="140" style="object-fit: cover;" />
+  <img src="assets/clancy.gif" height="220" style="object-fit: cover;" />
+  <img src="assets/right.gif" height="140" style="object-fit: cover;" />
 </div>
 
 <hr>
