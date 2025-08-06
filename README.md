@@ -5,10 +5,11 @@ Hi, I'm Prakhar Pandey
 	</a>
 </h1>
 
-
 ![Header](/assets/clancy.gif)
 
-<h4>
+
+<hr style="border: 0.1px solid #444; margin: 20px 0;">
+
 <!-- Tech Stack -->
 <div align="center">
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" />
@@ -49,7 +50,9 @@ Hi, I'm Prakhar Pandey
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
 </div>
 
-<hr>
+
+<hr style="border: 0.1px solid #444; margin: 20px 0;">
+
 <!-- Profile Views -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=cryosleeperX20&style=for-the-badge&color=brightgreen" alt="Profile Views" />
@@ -64,6 +67,9 @@ Hi, I'm Prakhar Pandey
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=cryosleeperX20&layout=compact&card_width=320&langs_count=5&hide_border=false&title_color=C46CEB&text_color=cccccc&icon_color=C46CEB&bg_color=0D1117" height="150" alt="languages graph"  />
 </div>
+
+
+<hr style="border: 0.1px solid #444; margin: 20px 0;">
 
 <!-- Let's Connect -->
 <h3 align="center">
@@ -85,11 +91,11 @@ Hi, I'm Prakhar Pandey
   </a>
 </div>
 
-<hr>
+<hr style="border: 0.1px solid #444; margin: 20px 0;">
 
 <!-- Snake -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/cryosleeperX20/cryosleeperX20/output/snake.svg" alt="Snake animation" />
 </p>
-<p align="right"><i>𝒶𝓁𝓁 𝒻𝓁𝑜𝓌𝑒𝓇𝓈 𝒾𝓃 𝓉𝒾𝓂𝑒 𝒷𝑒𝓃𝒹 𝓉𝑜𝓌𝒶𝓇𝒹𝓈 𝓉𝒽𝑒 𝓈𝓊𝓃</i></p>
 
+<p align="right"><i>𝒶𝓁𝓁 𝒻𝓁𝑜𝓌𝑒𝓇𝓈 𝒾𝓃 𝓉𝒾𝓂𝑒 𝒷𝑒𝓃𝒹 𝓉𝑜𝓌𝒶𝓇𝒹𝓈 𝓉𝒽𝑒 𝓈𝓊𝓃</i></p>
