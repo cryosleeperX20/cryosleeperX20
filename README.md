@@ -1,13 +1,14 @@
 <h1 align="center">
 Hi, I'm Prakhar Pandey
-	<a href="https://github.com/cryosleeperX20" target="_self">
-	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-	</a>
+  <a href="https://github.com/cryosleeperX20" target="_self">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+  </a>
 </h1>
 
 ![Header](/assets/clancy.gif)
 
-<hr style="height:1px; border:none; background-color:#555; margin:24px 0;" />
+---
+
 <!-- Tech Stack -->
 <div align="center">
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" />
@@ -48,13 +49,12 @@ Hi, I'm Prakhar Pandey
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
 </div>
 
-<hr style="height:1px; border:none; background-color:#555; margin:24px 0;" />
+---
 
 <!-- Profile Views -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=cryosleeperX20&style=for-the-badge&color=brightgreen" alt="Profile Views" />
 </div>
-
 
 <!-- GitHub Stats -->
 <div align="center">
@@ -65,6 +65,8 @@ Hi, I'm Prakhar Pandey
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=cryosleeperX20&layout=compact&card_width=320&langs_count=5&hide_border=false&title_color=C46CEB&text_color=cccccc&icon_color=C46CEB&bg_color=0D1117" height="150" alt="languages graph"  />
 </div>
+
+---
 
 <!-- Let's Connect -->
 <h3 align="center">
@@ -85,6 +87,8 @@ Hi, I'm Prakhar Pandey
     <img src="https://img.shields.io/static/v1?message=X&logo=twitter&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
 </div>
+
+---
 
 <!-- Snake -->
 <p align="center">
