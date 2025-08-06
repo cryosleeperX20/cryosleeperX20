@@ -1,13 +1,9 @@
 <h1 align="center">Hi , I'm Prakhar! 🐋🪼</h1>
 
-<div align="center">
-  <table>
-    <tr>
-      <td><img src="assets/left.gif" alt="Left GIF" width="200"/></td>
-      <td><img src="assets/clancy.gif" alt="Main GIF" width="300"/></td>
-      <td><img src="assets/right.gif" alt="Right GIF" width="200"/></td>
-    </tr>
-  </table>
+<div align="center" style="background-color:#000000; padding: 10px 0;">
+  <img src="assets/left.gif" width="250" />
+  <img src="assets/clancy.gif" width="300" />
+  <img src="assets/right.gif" width="250" />
 </div>
 
 <hr>
