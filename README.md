@@ -66,8 +66,6 @@ Hi, I'm Prakhar Pandey
     src="https://github-readme-stats.vercel.app/api/top-langs?username=cryosleeperX20&layout=compact&card_width=320&langs_count=5&hide_border=false&title_color=C46CEB&text_color=cccccc&icon_color=C46CEB&bg_color=0D1117" height="150" alt="languages graph"  />
 </div>
 
----
-
 <!-- Let's Connect -->
 <h3 align="center">
   Let's Connect! <img src="https://25.media.tumblr.com/e6ffb193e37fb600e828c03e357237b2/tumblr_mhtt5ts8BK1rkfeyuo1_250.gif" width="60" style="vertical-align: middle; margin-right: 10px;" />
@@ -87,8 +85,6 @@ Hi, I'm Prakhar Pandey
     <img src="https://img.shields.io/static/v1?message=X&logo=twitter&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
 </div>
-
----
 
 <!-- Snake -->
 <p align="center">
