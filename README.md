@@ -7,8 +7,7 @@ Hi, I'm Prakhar Pandey
 
 ![Header](/assets/clancy.gif)
 
-
-<hr style="border: 0.1px solid #444; margin: 20px 0;">
+<hr style="height:1px; border:none; background-color:#30363d; margin:24px 0;">
 
 <!-- Tech Stack -->
 <div align="center">
@@ -50,8 +49,7 @@ Hi, I'm Prakhar Pandey
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
 </div>
 
-
-<hr style="border: 0.1px solid #444; margin: 20px 0;">
+<hr style="height:1px; border:none; background-color:#30363d; margin:24px 0;">
 
 <!-- Profile Views -->
 <div align="center">
@@ -68,8 +66,7 @@ Hi, I'm Prakhar Pandey
     src="https://github-readme-stats.vercel.app/api/top-langs?username=cryosleeperX20&layout=compact&card_width=320&langs_count=5&hide_border=false&title_color=C46CEB&text_color=cccccc&icon_color=C46CEB&bg_color=0D1117" height="150" alt="languages graph"  />
 </div>
 
-
-<hr style="border: 0.1px solid #444; margin: 20px 0;">
+<hr style="height:1px; border:none; background-color:#30363d; margin:24px 0;">
 
 <!-- Let's Connect -->
 <h3 align="center">
@@ -91,7 +88,7 @@ Hi, I'm Prakhar Pandey
   </a>
 </div>
 
-<hr style="border: 0.1px solid #444; margin: 20px 0;">
+<hr style="height:1px; border:none; background-color:#30363d; margin:24px 0;">
 
 <!-- Snake -->
 <p align="center">
