@@ -1,10 +1,10 @@
 <h1 align="center">Hi , I'm Prakhar! 🐋🪼</h1>
 
 <div align="center" style="background-color:#000000; padding: 10px 0;">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: stretch; gap: 10px; max-width: 100%;">
-    <img src="assets/left.gif" style="height: 240px; object-fit: cover; flex: 1 1 150px;" />
-    <img src="assets/clancy.gif" style="height: 240px; object-fit: contain; flex: 2 1 300px;" />
-    <img src="assets/right.gif" style="height: 240px; object-fit: cover; flex: 1 1 150px;" />
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+    <img src="assets/left.gif" style="width: 250px; height: 250px; object-fit: cover;" />
+    <img src="assets/clancy.gif" style="width: 250px; height: 250px; object-fit: cover;" />
+    <img src="assets/right.gif" style="width: 250px; height: 250px; object-fit: cover;" />
   </div>
 </div>
 
