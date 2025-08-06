@@ -7,6 +7,7 @@ Hi, I'm Prakhar Pandey
 
 ![Header](/assets/clancy.gif)
 
+
 <!-- Tech Stack -->
 <div align="center">
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" />
@@ -47,10 +48,12 @@ Hi, I'm Prakhar Pandey
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
 </div>
 
+
 <!-- Profile Views -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=cryosleeperX20&style=for-the-badge&color=brightgreen" alt="Profile Views" />
 </div>
+
 
 <!-- GitHub Stats -->
 <div align="center">
