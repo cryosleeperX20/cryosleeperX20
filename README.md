@@ -1,8 +1,14 @@
 <h1 align="center">Hi , I'm Prakhar! 🐋🪼</h1>
 
-<p align="center">
-  <img src="assets/clancy.gif" alt="Clancy GIF" width="500" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="assets/left.gif" alt="Left GIF" width="200"/></td>
+      <td><img src="assets/clancy.gif" alt="Main GIF" width="300"/></td>
+      <td><img src="assets/right.gif" alt="Right GIF" width="200"/></td>
+    </tr>
+  </table>
+</div>
 
 <hr>
 
