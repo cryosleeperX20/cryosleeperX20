@@ -8,6 +8,7 @@ Hi, I'm Prakhar Pandey
 
 ![Header](/assets/clancy.gif)
 
+<h4>
 <!-- Tech Stack -->
 <div align="center">
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" />
