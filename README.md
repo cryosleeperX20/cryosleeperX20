@@ -7,7 +7,7 @@ Hi, I'm Prakhar Pandey
 
 ![Header](/assets/clancy.gif)
 
-<div style="height:1px; background-color:#555; opacity:0.4; margin:24px 0;"></div>
+<hr style="height:1px; border:none; background-color:#555; margin:24px 0;" />
 <!-- Tech Stack -->
 <div align="center">
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" />
