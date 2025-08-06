@@ -1,14 +1,12 @@
-<h1 align="center">Hi , I'm Prakhar! 🐋🪼</h1>
+<h1 align="center">
+Hi, I'm Prakhar Pandey
+	<a href="https://github.com/cryosleeperX20" target="_self">
+	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+	</a>
+</h1>
 
-<div align="center" style="background-color:#000000; padding: 10px 0;">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-    <img src="assets/left.gif" style="width: 250px; height: 250px; object-fit: cover;" />
-    <img src="assets/clancy.gif" style="width: 250px; height: 250px; object-fit: cover;" />
-    <img src="assets/right.gif" style="width: 250px; height: 250px; object-fit: cover;" />
-  </div>
-</div>
 
-<hr>
+![Header](/assets/clancy.gif)
 
 <!-- Tech Stack -->
 <div align="center">
