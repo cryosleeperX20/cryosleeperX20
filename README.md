@@ -1,49 +1,46 @@
 <h1 align="center">
-Hi, I'm Prakhar Pandey
+  Hi, I'm Prakhar Pandey
   <a href="https://github.com/prakharp4" target="_self">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
   </a>
 </h1>
+
+<h3 align="center">AI Engineer</h3>
 
 ![Header](/assets/clancy.gif)
 
 ---
 
-<!-- Tech Stack -->
+<!-- AI / ML Stack -->
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo" />
   <img width="15"/>
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="C logo" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow logo" />
   <img width="15"/>
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="pytorch logo" />
   <img width="15"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" />
+  <img src="https://skillicons.dev/icons?i=opencv" height="40" alt="opencv logo" />
   <img width="15"/>
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" />
+  <img src="https://skillicons.dev/icons?i=sklearn" height="40" alt="scikit-learn logo" />
   <img width="15"/>
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
+  <img src="https://skillicons.dev/icons?i=huggingface" height="40" alt="hugging face logo" />
+</div>
+
+<br>
+
+<!-- AI Engineering Stack -->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo" />
   <img width="15"/>
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
   <img width="15"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo" />
-  <img width="15"/>
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo" />
-  <img width="15"/>
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo" />
-  <img width="15"/>
-  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="gcp logo" />
-  <img width="15"/>
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo" />
-  <img width="15"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" />
+  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo" />
   <img width="15"/>
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" />
   <img width="15"/>
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo" />
   <img width="15"/>
-  <img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="cloudflare logo" />
-  <img width="15"/>
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="gcp logo" />
 </div>
 
 ---
@@ -64,27 +61,44 @@ Hi, I'm Prakhar Pandey
 
 <!-- Let's Connect -->
 <h3 align="center">
-  Let's Connect! <img src="https://25.media.tumblr.com/e6ffb193e37fb600e828c03e357237b2/tumblr_mhtt5ts8BK1rkfeyuo1_250.gif" width="60" style="vertical-align: middle; margin-right: 10px;" />
+  Let's Connect!
+  <img 
+    src="https://25.media.tumblr.com/e6ffb193e37fb600e828c03e357237b2/tumblr_mhtt5ts8BK1rkfeyuo1_250.gif" 
+    width="60" 
+    style="vertical-align: middle; margin-right: 10px;" 
+  />
 </h3>
 
 <div align="center">
   <a href="https://github.com/prakharp4" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+    <img 
+      src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" 
+      height="35" 
+    />
   </a>
+
   <a href="mailto:prakharp4pandey@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+    <img 
+      src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" 
+      height="35" 
+    />
   </a>
+
   <a href="https://www.linkedin.com/in/prakhar-pandey-b8b9a9206/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+    <img 
+      src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" 
+      height="35" 
+    />
   </a>
+
   <a href="https://x.com/paneerjalebi" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=X&logo=twitter&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+    <img 
+      src="https://img.shields.io/static/v1?message=X&logo=twitter&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" 
+      height="35" 
+    />
   </a>
 </div>
 
-<!-- Snake -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/prakharp4/prakharp4/output/snake.svg" alt="Snake animation" />
+<p align="right">
+  <i>𝒶𝓁𝓁 𝒻𝓁𝑜𝓌𝑒𝓇𝓈 𝒾𝓃 𝓉𝒾𝓂𝑒 𝒷𝑒𝓃𝒹 𝓉𝑜𝓌𝒶𝓇𝒹𝓈 𝓉𝒽𝑒 𝓈𝓊𝓃</i>
 </p>
-
-<p align="right"><i>𝒶𝓁𝓁 𝒻𝓁𝑜𝓌𝑒𝓇𝓈 𝒾𝓃 𝓉𝒾𝓂𝑒 𝒷𝑒𝓃𝒹 𝓉𝑜𝓌𝒶𝓇𝒹𝓈 𝓉𝒽𝑒 𝓈𝓊𝓃</i></p>
