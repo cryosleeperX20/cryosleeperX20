@@ -5,7 +5,6 @@
   </a>
 </h1>
 
-<h3 align="center">AI Engineer</h3>
 
 ![Header](/assets/clancy.gif)
 
