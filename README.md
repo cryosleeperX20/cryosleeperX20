@@ -10,41 +10,6 @@
 ![Header](/assets/clancy.gif)
 
 ---
-
-<!-- AI / ML Stack -->
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo" />
-  <img width="15"/>
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow logo" />
-  <img width="15"/>
-  <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="pytorch logo" />
-  <img width="15"/>
-  <img src="https://skillicons.dev/icons?i=opencv" height="40" alt="opencv logo" />
-  <img width="15"/>
-  <img src="https://skillicons.dev/icons?i=sklearn" height="40" alt="scikit-learn logo" />
-  <img width="15"/>
-  <img src="https://skillicons.dev/icons?i=huggingface" height="40" alt="hugging face logo" />
-</div>
-
-<br>
-
-<!-- AI Engineering Stack -->
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo" />
-  <img width="15"/>
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
-  <img width="15"/>
-  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo" />
-  <img width="15"/>
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" />
-  <img width="15"/>
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo" />
-  <img width="15"/>
-  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="gcp logo" />
-</div>
-
----
-
 <!-- Profile Views -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=prakharp4&style=for-the-badge&color=brightgreen" alt="Profile Views" />
